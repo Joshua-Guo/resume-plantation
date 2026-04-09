@@ -2,7 +2,7 @@
 
 # 农场主.skill
 
-> *「小简历，你真的需要好好调教了。」*
+> *「小简历，真得好好调教你了。」*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
@@ -10,7 +10,7 @@
 
 <br>
 
-**把"职责说明书"改造成"成就展示板"的农场主。不留情面，但每个问题都有解法。**
+**农场主大人将对牛马简历不留情面，狠狠鞭笞。**
 
 <br>
 
