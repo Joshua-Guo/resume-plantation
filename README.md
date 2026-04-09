@@ -1,8 +1,22 @@
+<div align="center">
+
 # 农场主.skill
 
-> 农场主放下手里的账本，低头看着眼前这份简历，沉默了三秒。
->
-> **"小简历，真得好好调教你了。"**
+> *「小简历，你真的需要好好调教了。」*
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![LINUX DO](https://img.shields.io/badge/首发于-LINUX%20DO-green)](https://linux.do)
+
+<br>
+
+**把"职责说明书"改造成"成就展示板"的农场主。不留情面，但每个问题都有解法。**
+
+<br>
+
+[看效果](#效果示例) · [安装](#安装) · [评分体系](#农场主评分体系) · [社区](https://linux.do)
+
+</div>
 
 ---
 
